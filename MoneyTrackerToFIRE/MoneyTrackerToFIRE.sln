@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RecordMoney", "RecordMoney", "{7EB24EAB-4180-4E1E-8425-DB1E3E14F944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordMoney.WebApi", "RecordMoney.WebApi\RecordMoney.WebApi.csproj", "{839D70D2-9C62-4AAC-AF4F-772D48B74ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordMoney.Contracts", "RecordMoney.Contracts\RecordMoney.Contracts.csproj", "{88B82EF2-20FF-4BA3-9528-2D19818F8EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordMoney.Test", "RecordMoney.Test\RecordMoney.Test.csproj", "{51A06C0C-EE72-47D2-B484-72517F1E493A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839D70D2-9C62-4AAC-AF4F-772D48B74ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839D70D2-9C62-4AAC-AF4F-772D48B74ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839D70D2-9C62-4AAC-AF4F-772D48B74ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839D70D2-9C62-4AAC-AF4F-772D48B74ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B82EF2-20FF-4BA3-9528-2D19818F8EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B82EF2-20FF-4BA3-9528-2D19818F8EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B82EF2-20FF-4BA3-9528-2D19818F8EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B82EF2-20FF-4BA3-9528-2D19818F8EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A06C0C-EE72-47D2-B484-72517F1E493A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A06C0C-EE72-47D2-B484-72517F1E493A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A06C0C-EE72-47D2-B484-72517F1E493A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A06C0C-EE72-47D2-B484-72517F1E493A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{839D70D2-9C62-4AAC-AF4F-772D48B74ED0} = {7EB24EAB-4180-4E1E-8425-DB1E3E14F944}
+		{88B82EF2-20FF-4BA3-9528-2D19818F8EAC} = {7EB24EAB-4180-4E1E-8425-DB1E3E14F944}
+		{51A06C0C-EE72-47D2-B484-72517F1E493A} = {7EB24EAB-4180-4E1E-8425-DB1E3E14F944}
+	EndGlobalSection
+EndGlobal
