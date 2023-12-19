@@ -1,6 +1,0 @@
-@RecordMoney.WebApi_HostAddress = http://localhost:5115
-
-GET {{RecordMoney.WebApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

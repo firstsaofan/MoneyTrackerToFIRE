@@ -1,4 +1,4 @@
-namespace RecordMoney.Test;
+namespace MoneyTrackerToFIRE.Test;
 
 public class Tests
 {
